@@ -39,9 +39,8 @@ Welcome to the Weather App project! This application allows you to conveniently 
     - Enjoy :)
 
 ## Screenshots
-![](./assets/screenshots/image00001.png)
-![](./assets/screenshots/image00002.png)
-![](./assets/screenshots/image00003.png)
-![](./assets/screenshots/image00004.png)
 
-<img src="https://www.powertrafic.fr/wp-content/uploads/2023/04/image-ia-exemple.png" width="48">
+<img src="./assets/screenshots/image00001.png" width="100">
+<img src="./assets/screenshots/image00002.png" width="100">
+<img src="./assets/screenshots/image00003.png" width="100">
+<img src="./assets/screenshots/image00004.png" width="100">
