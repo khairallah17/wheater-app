@@ -41,8 +41,8 @@ Welcome to the Weather App project! This application allows you to conveniently 
 ## Screenshots
 
 <div>
-<img src="./assets/screenshots/image00001.png" width="100">
-<img src="./assets/screenshots/image00002.png" width="100">
-<img src="./assets/screenshots/image00003.png" width="100">
-<img src="./assets/screenshots/image00004.png" width="100">
+<img src="./assets/screenshots/image00001.png" width="200">
+<img src="./assets/screenshots/image00002.png" width="200">
+<img src="./assets/screenshots/image00003.png" width="200">
+<img src="./assets/screenshots/image00004.png" width="300">
 </div>
